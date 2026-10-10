@@ -1,4 +1,4 @@
-# gerenciador-de-cadastro
+
 # Funcionalidades da revisão 1.0.0
 
 - Formulários compactos de agendamento, cobrança e matrícula; seletores pesquisáveis, escolha explícita e navegação por teclado.
@@ -7,4 +7,4 @@
 - Categorias, estoque valorizado por movimento, histórico de vendas e financeiro separado de produtos.
 - Professores: cursos, alunos, planos de 1/3/6 meses, notas e anexos TXT/DOCX/PDF no backup.
 - Agendamento individual e de equipe, horários independentes e proteção de conflitos por responsável.
-- Listas paginadas para clientes, produtos, matrículas e relatórios de estoqu
+- Listas paginadas para clientes, produtos, matrículas e relatórios de estoque
